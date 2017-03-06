@@ -35,4 +35,4 @@ clf = LinearRegression(n_jobs=-1)
 clf.fit(X_train,Y_train)
 accuracy = clf.score(X_test,Y_test)
 print(accuracy)
-#n_jobs how many threads? see in documentation look example 6th_py
+
