@@ -1,0 +1,13 @@
+r^2 = 1 - SSE/SST
+
+SSE = Sum of squared error is sum of squares of error for all predictions
+SST = Sum of squared error with the mean of the prediction
+
+So just saying mean as prediction gives SST 
+we want to know how good our prediction is with respect to 
+just saying mean as the output
+
+if R^2 = 0.8 then we know that SSE/SST=0.2
+
+
+
