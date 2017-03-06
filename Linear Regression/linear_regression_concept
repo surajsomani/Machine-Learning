@@ -1,0 +1,5 @@
+Y = mx+b
+
+m = (Xbar*Ybar - (XY)bar)/((Xbar)^2 - (x^2)bar)
+
+b = Ybar - m*Xbar
